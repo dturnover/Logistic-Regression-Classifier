@@ -19,7 +19,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The program automaically trains and deploys a model based on the input data. The data is found atop the main function as a set of arrays. I have a demo built in but you can replace it with a dataset of your choosing. For any number of training examples not equal to two turn the global variable "Visualize" off.
+The program automatically trains and deploys a model based on the input data. The data is found atop the main function as a set of arrays. I have a demo built in but you can replace it with a dataset of your choosing. For any number of training examples not equal to two turn the global variable "Visualize" off.
 
 <!-- CONTRIBUTING -->
 ## Contributing
