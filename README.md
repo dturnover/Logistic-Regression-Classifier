@@ -38,7 +38,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Desmond Turner - desmondegt@gmail.com.com
+Desmond Turner - desmondegt@gmail.com
 
 Project Link: [https://github.com/dturnover/Logistic-Regression-Classifier/](https://github.com/dturnover/Logistic-Regression-Classifier/)
 
